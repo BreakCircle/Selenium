@@ -1,0 +1,2 @@
+1.文件guest为Django做的一个简单的登陆界面（虫师）；开启服务：(1)cmd；(2)切换到guest目录下；（3）开启服务： python manage.py runserver;
+2.文件zs为unittest测试框架做的一个测试；拷贝到D盘的根目录下；
